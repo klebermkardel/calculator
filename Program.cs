@@ -10,7 +10,8 @@ namespace Calculadora
             Console.WriteLine("Primeiro valor: ");
             float v1 = float.Parse(Console.ReadLine());
             Console.WriteLine("Segundo valor: ");
-            floar v2 = float.Parse(Console.ReadLine());
+            float v2 = float.Parse(Console.ReadLine());
+            
         }
     }
 }
